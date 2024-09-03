@@ -3,6 +3,7 @@ import java.util.Scanner;
 public class SistemadeCálculodeSaláriocomBonificaçãoeImpostos {
 
     public static void main(String[] args) {
+
         Scanner sc = new Scanner(System.in);
         //1. Peça ao usuário para inserir o salário bruto de um funcionário.
         //2. Solicite o número de anos que o funcionário trabalhou na empresa.
